@@ -1,0 +1,94 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">cb_cons_title</custom-field>
+        <custom-field action="translate">cb_con_1</custom-field>
+        <custom-field action="translate">cb_con_2</custom-field>
+        <custom-field action="translate">cb_con_3</custom-field>
+        <custom-field action="translate">cb_pros_title</custom-field>
+        <custom-field action="translate">cb_pro_1</custom-field>
+        <custom-field action="translate">cb_pro_2</custom-field>
+        <custom-field action="translate">cb_pro_3</custom-field>
+        <custom-field action="translate">cb_ct1</custom-field>
+        <custom-field action="translate">cb_ct2</custom-field>
+        <custom-field action="translate">cb_ct3</custom-field>
+        <custom-field action="translate">cb_ct4</custom-field>
+        <custom-field action="translate">cb_ct5</custom-field>
+        <custom-field action="translate">cb_ct6</custom-field>
+        <custom-field action="translate">cb_image_credit</custom-field>
+        <custom-field action="copy">cb_bg_color_post</custom-field>
+        <custom-field action="copy">cb_bg_image_post</custom-field>
+        <custom-field action="copy">cb_bg_image_post_setting</custom-field>
+        <custom-field action="copy">cb_featured_image_settings_post</custom-field>
+        <custom-field action="copy">cb_featured_image_style</custom-field>
+        <custom-field action="copy">cb_featured_menu</custom-field>
+        <custom-field action="copy">cb_featured_post</custom-field>
+        <custom-field action="copy">cb_featured_post_hp</custom-field>
+        <custom-field action="copy">cb_full_width_post</custom-field>
+        <custom-field action="copy">cb_featured_post_menu</custom-field>
+        <custom-field action="copy">cb_bg_image_post</custom-field>
+        <custom-field action="copy">cb_final_score_override</custom-field>
+        <custom-field action="copy">cb_final_score</custom-field>
+        <custom-field action="copy">cb_full_width_posts</custom-field>
+
+        <custom-field action="copy">cb_gallery_content</custom-field>
+        <custom-field action="copy">cb_page_sidebar</custom-field>
+        <custom-field action="copy">cb_full_width_posts</custom-field>
+        <custom-field action="copy">cb_placement</custom-field>
+        <custom-field action="copy">cb_review_style</custom-field>
+        <custom-field action="copy">cb_score_display_type</custom-field>
+        <custom-field action="copy">cb_review_type</custom-field>
+
+        <custom-field action="ignore">cb_section_a</custom-field>
+        <custom-field action="copy">cb_soundcloud_embed_code_post</custom-field>
+        <custom-field action="copy">cb_review_type</custom-field>
+        <custom-field action="ignore">cb_section_b</custom-field>
+        <custom-field action="ignore">cb_section_c</custom-field>
+        <custom-field action="ignore">cb_section_d</custom-field>
+        <custom-field action="copy">cb_video_embed_code_post</custom-field>
+        <custom-field action="copy">cb_review_type</custom-field>
+        <custom-field action="copy">votes</custom-field>
+        <custom-field action="copy">cb_review_type</custom-field>
+        <custom-field action="copy">user_score</custom-field>
+        <custom-field action="copy">cb_review_type</custom-field>
+
+        <custom-field action="copy">cb_review_type</custom-field>
+        <custom-field action="ignore">_menu_item_cbmegamenu</custom-field>
+        <custom-field action="ignore">_menu_item_classes</custom-field>
+        <custom-field action="ignore">_menu_item_object</custom-field>
+        <custom-field action="ignore">_menu_item_menu_item_parent</custom-field>
+        <custom-field action="ignore">_menu_item_orphaned</custom-field>
+        <custom-field action="ignore">_menu_item_object_id</custom-field>
+        <custom-field action="ignore">_oembed_9fcc86d7d9398ff736577f922307f64d</custom-field>
+        <custom-field action="ignore">_oembed_37fdfe862c13c46a93be2921279bf675</custom-field>
+        <custom-field action="ignore">_oembed_33b264047706a79640b61e94623b387e</custom-field>
+        <custom-field action="ignore">_menu_item_xfn</custom-field>
+        <custom-field action="ignore">_menu_item_url</custom-field>
+        <custom-field action="ignore">_wp_trash_meta_time</custom-field>
+        <custom-field action="ignore">_wp_trash_meta_status</custom-field>
+        <custom-field action="ignore">_wp_attachment_context</custom-field>
+        <custom-field action="ignore">_wp_old_slug</custom-field>
+        <custom-field action="ignore">_wp_attachment_backup_sizes</custom-field>
+        <custom-field action="copy">standard_seo_post_level_layout</custom-field>
+        <custom-field action="ignore">_menu_item_target</custom-field>
+        <custom-field action="ignore">_menu_item_type</custom-field>
+        <custom-field action="ignore">_publicize_pending</custom-field>
+        <custom-field action="ignore">_publicize_pending</custom-field>
+        <custom-field action="copy">cb_user_score</custom-field>
+        <custom-field action="copy">cb_cs1</custom-field>
+        <custom-field action="copy">cb_cs2</custom-field>
+        <custom-field action="copy">cb_cs3</custom-field>
+        <custom-field action="copy">cb_cs4</custom-field>
+        <custom-field action="copy">cb_cs5</custom-field>
+        <custom-field action="copy">cb_cs6</custom-field>
+        <custom-field action="copy">cb_review_checkbox</custom-field>
+        <custom-field action="copy">standard_link_url_field</custom-field>
+        <custom-field action="translate">standard_seo_post_meta_description</custom-field>
+        <custom-field action="translate">cb_summary</custom-field>
+        <custom-field action="translate">cb_rating_short_summary</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="0">option-tree</custom-type>
+    </custom-types>
+</wpml-config>
+
+
